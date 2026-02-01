@@ -1,7 +1,3 @@
-<h2 align="left">Hi 👋! My name is Mathew Binuya and I'm a Backend Developer from Philippines</h2>
-
-###
-
 <img align="right" height="150" src="https://i.pinimg.com/736x/dc/ac/ae/dcacae5a0943fcb00ca4318b6cbeb431.jpg"  />
 
 ###
